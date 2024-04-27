@@ -1,6 +1,5 @@
 # 💫 About Me:
-I have always had a passion for software development. I acquired experiences with C++, and Python on my journey to become a Back-End developer. I have Advanced knowledge on Python and being familiar with its ecosystem and Solid experience on Django and its ORM . I’m gaining new experiences in Block chain and AI. my characteristics that I always try to maintain is : being nice to people who I work with , teamwork spirit , try to learn from my colleagues and improve my skills , creative mind and ready to face new challenges , problem solving and capable to Lead my team
-
+I'm a software developer with a strong foundation in Python and JavaScript, and I have specialized skills in using Django to build robust web applications. My passion for technology drives me to expand my knowledge constantly, and I'm diving into Blockchain and Artificial Intelligence to stay at the field's cutting edge.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ali.azamian) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aliazamian) 
